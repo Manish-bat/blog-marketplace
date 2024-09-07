@@ -1,0 +1,45 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "You can make it at home: A collection of recipes for the rumored iced coffee",
+      "author": "UWASA",
+      "authorImage": "https://randomuser.me/api/portraits/men/1.jpg",
+      "content": "It's already September, but it looks like the heat will continue for a while. I'm sure you've tried iced coffee at various stores this year. However, the world of iced coffee is still vast...! This time, we've put together some \"recipes that are popular\" that are hard to find at stores, or that you can easily make delicious at home. Please try them out with your family and friends!",
+      "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "isPaid": false,
+      "likes": 119,
+      "date": "September 5, 2024 14:31"
+    },
+    {
+      "id": 2,
+      "title": "Generative AI and the twilight of 35 years of experience",
+      "author": "Ichiro Yamamoto",
+      "authorImage": "https://randomuser.me/api/portraits/men/2.jpg",
+      "content": "Exploring the impact of generative AI on traditional work experience...",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "isPaid": true,
+      "likes": 166,
+      "date": "September 7, 2024 09:15"
+    },
+    {
+      "id": 3,
+      "title": "From Midjourney to FLUX.1: The evolution of image generation AI",
+      "author": "George Reading",
+      "authorImage": "https://randomuser.me/api/portraits/men/3.jpg",
+      "content": "A deep dive into the rapid advancements in AI-powered image generation...",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "isPaid": false,
+      "likes": 51,
+      "date": "September 8, 2024 11:22"
+    }
+  ],
+  "categories": [
+    "Today's Featured Articles",
+    "Generative AI",
+    "Contests and collaboration projects",
+    "camera",
+    "work",
+    "design"
+  ]
+}
